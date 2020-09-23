@@ -5,4 +5,4 @@ It takes a list of Roll numbers and their Date of Birth from a excel file and us
 * Selenium with chromium webdriver do the automation process.
 * Pandas package is used to read , visualize , write data in the process.
 
-Increased Modularity is maintained as much as possible for further requirements.
+Increased Modularity as much as possible to maintain the compatibility with the upcoming versions.
